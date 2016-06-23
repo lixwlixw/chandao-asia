@@ -1,0 +1,1204 @@
+151130 10:10:05 mysqld_safe Starting mysqld daemon with databases from /opt/zbox/data/mysql
+151130 10:10:05 [Warning] Using unique option prefix key_buffer instead of key_buffer_size is deprecated and will be removed in a future release. Please use the full name instead.
+151130 10:10:05 [Note] /opt/zbox/run/mysql/mysqld (mysqld 5.5.45) starting as process 2349 ...
+151130 10:10:05 InnoDB: The InnoDB memory heap is disabled
+151130 10:10:05 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+151130 10:10:05 InnoDB: Compressed tables use zlib 1.2.3.4
+151130 10:10:05 InnoDB: Initializing buffer pool, size = 128.0M
+151130 10:10:05 InnoDB: Completed initialization of buffer pool
+InnoDB: The first specified data file ./ibdata1 did not exist:
+InnoDB: a new database to be created!
+151130 10:10:05  InnoDB: Setting file ./ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+151130 10:10:05  InnoDB: Log file ./ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file ./ib_logfile0 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+151130 10:10:05  InnoDB: Log file ./ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file ./ib_logfile1 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+InnoDB: Doublewrite buffer not found: creating new
+InnoDB: Doublewrite buffer created
+InnoDB: 127 rollback segment(s) active.
+InnoDB: Creating foreign key constraint system tables
+InnoDB: Foreign key constraint system tables created
+151130 10:10:06  InnoDB: Waiting for the background threads to start
+151130 10:10:07 InnoDB: 5.5.45 started; log sequence number 0
+151130 10:10:07 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3308
+151130 10:10:07 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+151130 10:10:07 [Note] Server socket created on IP: '127.0.0.1'.
+151130 10:10:07 [Note] Event Scheduler: Loaded 0 events
+151130 10:10:07 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '5.5.45'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3308  Source distribution
+151130 10:14:12 [Note] /opt/zbox/run/mysql/mysqld: Normal shutdown
+
+151130 10:14:12 [Note] Event Scheduler: Purging the queue. 0 events
+151130 10:14:12  InnoDB: Starting shutdown...
+151130 10:14:13  InnoDB: Shutdown completed; log sequence number 1595675
+151130 10:14:13 [Note] /opt/zbox/run/mysql/mysqld: Shutdown complete
+
+151130 10:14:13 mysqld_safe mysqld from pid file /opt/zbox/tmp/mysql/mysqld.pid ended
+151130 10:53:27 mysqld_safe Starting mysqld daemon with databases from /opt/zbox/data/mysql
+151130 10:53:27 [Warning] Using unique option prefix key_buffer instead of key_buffer_size is deprecated and will be removed in a future release. Please use the full name instead.
+151130 10:53:27 [Note] /opt/zbox/run/mysql/mysqld (mysqld 5.5.45) starting as process 2375 ...
+151130 10:53:27 InnoDB: The InnoDB memory heap is disabled
+151130 10:53:27 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+151130 10:53:27 InnoDB: Compressed tables use zlib 1.2.3.4
+151130 10:53:27 InnoDB: Initializing buffer pool, size = 128.0M
+151130 10:53:27 InnoDB: Completed initialization of buffer pool
+151130 10:53:27 InnoDB: highest supported file format is Barracuda.
+151130 10:53:27  InnoDB: Waiting for the background threads to start
+151130 10:53:28 InnoDB: 5.5.45 started; log sequence number 1595675
+151130 10:53:28 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3308
+151130 10:53:28 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+151130 10:53:28 [Note] Server socket created on IP: '127.0.0.1'.
+151130 10:53:28 [Note] Event Scheduler: Loaded 0 events
+151130 10:53:28 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '5.5.45'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3308  Source distribution
+151130 10:55:28 [Note] /opt/zbox/run/mysql/mysqld: Normal shutdown
+
+151130 10:55:28 [Note] Event Scheduler: Purging the queue. 0 events
+151130 10:55:28  InnoDB: Starting shutdown...
+151130 10:55:28  InnoDB: Shutdown completed; log sequence number 1595675
+151130 10:55:28 [Note] /opt/zbox/run/mysql/mysqld: Shutdown complete
+
+151130 10:55:28 mysqld_safe mysqld from pid file /opt/zbox/tmp/mysql/mysqld.pid ended
+151224 11:29:32 mysqld_safe Starting mysqld daemon with databases from /opt/zbox/data/mysql
+151224 11:29:32 [Warning] Using unique option prefix key_buffer instead of key_buffer_size is deprecated and will be removed in a future release. Please use the full name instead.
+151224 11:29:32 [Note] /opt/zbox/run/mysql/mysqld (mysqld 5.5.45) starting as process 1668 ...
+151224 11:29:32 InnoDB: The InnoDB memory heap is disabled
+151224 11:29:32 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+151224 11:29:32 InnoDB: Compressed tables use zlib 1.2.3.4
+151224 11:29:32 InnoDB: Initializing buffer pool, size = 128.0M
+151224 11:29:32 InnoDB: Completed initialization of buffer pool
+151224 11:29:32 InnoDB: highest supported file format is Barracuda.
+151224 11:29:32  InnoDB: Waiting for the background threads to start
+151224 11:29:33 InnoDB: 5.5.45 started; log sequence number 1595675
+151224 11:29:33 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+151224 11:29:33 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+151224 11:29:33 [Note] Server socket created on IP: '127.0.0.1'.
+151224 11:29:33 [Note] Event Scheduler: Loaded 0 events
+151224 11:29:33 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '5.5.45'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution
+151224 11:30:12 [Note] /opt/zbox/run/mysql/mysqld: Normal shutdown
+
+151224 11:30:12 [Note] Event Scheduler: Purging the queue. 0 events
+151224 11:30:12  InnoDB: Starting shutdown...
+151224 11:30:13  InnoDB: Shutdown completed; log sequence number 1595675
+151224 11:30:13 [Note] /opt/zbox/run/mysql/mysqld: Shutdown complete
+
+151224 11:30:13 mysqld_safe mysqld from pid file /opt/zbox/tmp/mysql/mysqld.pid ended
+151224 11:30:45 mysqld_safe Starting mysqld daemon with databases from /opt/zbox/data/mysql
+151224 11:30:45 [Warning] Using unique option prefix key_buffer instead of key_buffer_size is deprecated and will be removed in a future release. Please use the full name instead.
+151224 11:30:45 [Note] /opt/zbox/run/mysql/mysqld (mysqld 5.5.45) starting as process 2126 ...
+151224 11:30:45 InnoDB: The InnoDB memory heap is disabled
+151224 11:30:45 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+151224 11:30:45 InnoDB: Compressed tables use zlib 1.2.3.4
+151224 11:30:45 InnoDB: Initializing buffer pool, size = 128.0M
+151224 11:30:45 InnoDB: Completed initialization of buffer pool
+151224 11:30:45 InnoDB: highest supported file format is Barracuda.
+151224 11:30:45  InnoDB: Waiting for the background threads to start
+151224 11:30:46 InnoDB: 5.5.45 started; log sequence number 1595675
+151224 11:30:46 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+151224 11:30:46 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+151224 11:30:46 [Note] Server socket created on IP: '127.0.0.1'.
+151224 11:30:46 [Note] Event Scheduler: Loaded 0 events
+151224 11:30:46 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '5.5.45'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution
+151224 11:37:09 [Note] /opt/zbox/run/mysql/mysqld: Normal shutdown
+
+151224 11:37:09 [Note] Event Scheduler: Purging the queue. 0 events
+151224 11:37:09  InnoDB: Starting shutdown...
+151224 11:37:09  InnoDB: Shutdown completed; log sequence number 1595685
+151224 11:37:09 [Note] /opt/zbox/run/mysql/mysqld: Shutdown complete
+
+151224 11:37:09 mysqld_safe mysqld from pid file /opt/zbox/tmp/mysql/mysqld.pid ended
+160204 02:38:31 mysqld_safe Starting mysqld daemon with databases from /opt/zbox/data/mysql
+160204  2:38:31 [Warning] Using unique option prefix key_buffer instead of key_buffer_size is deprecated and will be removed in a future release. Please use the full name instead.
+160204  2:38:31 [Note] /opt/zbox/run/mysql/mysqld (mysqld 5.5.45) starting as process 18114 ...
+160204  2:38:31 InnoDB: The InnoDB memory heap is disabled
+160204  2:38:31 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+160204  2:38:31 InnoDB: Compressed tables use zlib 1.2.3.4
+160204  2:38:31 InnoDB: Initializing buffer pool, size = 128.0M
+160204  2:38:31 InnoDB: Completed initialization of buffer pool
+160204  2:38:31 InnoDB: highest supported file format is Barracuda.
+160204  2:38:31  InnoDB: Waiting for the background threads to start
+160204  2:38:32 InnoDB: 5.5.45 started; log sequence number 1595685
+160204  2:38:32 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+160204  2:38:32 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+160204  2:38:32 [Note] Server socket created on IP: '127.0.0.1'.
+160204  2:38:32 [Note] Event Scheduler: Loaded 0 events
+160204  2:38:32 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '5.5.45'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution
+
+Status information:
+
+Current dir: /opt/zbox/data/mysql/
+Running threads: 0  Stack size: 262144
+Current locks:
+lock: 0x7f611c02b950:
+
+lock: 0x7f611c0240b0:
+
+lock: 0x7f611c01d880:
+
+lock: 0x7f611c0189f0:
+
+lock: 0x7f611c014ac0:
+
+lock: 0x7f611c010d90:
+
+lock: 0x7f611c00ce80:
+
+lock: 0x7f611c0097b0:
+
+lock: 0x7f611800ef10:
+
+lock: 0x7f611800a0c0:
+
+lock: 0x7f6120121eb0:
+
+lock: 0x7f612011e710:
+
+lock: 0x7f6120118c30:
+
+lock: 0x7f6120112640:
+
+lock: 0x7f6120106790:
+
+lock: 0x7f6120102470:
+
+lock: 0x7f61200fcb70:
+
+lock: 0x7f61200f2490:
+
+lock: 0x7f61200eb930:
+
+lock: 0x7f61200e7320:
+
+lock: 0x7f61200e3220:
+
+lock: 0x7f61200d5180:
+
+lock: 0x7f61200e0090:
+
+lock: 0x7f61200cd730:
+
+lock: 0x7f61200ca450:
+
+lock: 0x7f61200c6fc0:
+
+lock: 0x7f61200c3130:
+
+lock: 0x7f61200baa50:
+
+lock: 0x7f61200bff70:
+
+lock: 0x7f61200b7560:
+
+lock: 0x7f61200b3500:
+
+lock: 0x7f61200ad5c0:
+
+lock: 0x7f61200a05d0:
+
+lock: 0x7f61200a6910:
+
+lock: 0x7f612009f220:
+
+lock: 0x7f61200989f0:
+
+lock: 0x7f612008edf0:
+
+lock: 0x7f612008ac80:
+
+lock: 0x7f6120087910:
+
+lock: 0x7f6120083aa0:
+
+lock: 0x7f612007da40:
+
+lock: 0x7f6120073270:
+
+lock: 0x7f612006f000:
+
+lock: 0x7f6120069940:
+
+lock: 0x7f612005f370:
+
+lock: 0x7f6120059a20:
+
+lock: 0x7f6120055920:
+
+lock: 0x7f6120047860:
+
+lock: 0x7f61200527d0:
+
+lock: 0x7f612003ff80:
+
+lock: 0x7f612003cde0:
+
+lock: 0x7f6120039960:
+
+lock: 0x7f6120034990:
+
+lock: 0x7f612002be10:
+
+lock: 0x7f61200279d0:
+
+lock: 0x7f6120020d60:
+
+lock: 0x7f612001bf40:
+
+lock: 0x7f6120017c00:
+
+lock: 0x7f6120010e30:
+
+lock: 0x7f61200084f0:
+
+lock: 0x185d640:
+
+lock: 0x17f2540:
+
+lock: 0x17ec000:
+
+lock: 0xf65820:
+
+lock: 0xf65d60:
+
+lock: 0xf65e20:
+
+lock: 0xf65ee0:
+
+lock: 0xf658e0:
+
+lock: 0xf659a0:
+
+lock: 0xf65760:
+
+lock: 0xf655e0:
+
+lock: 0xf656a0:
+
+lock: 0xf65fa0:
+
+lock: 0xf65a60:
+
+lock: 0xf65ca0:
+
+lock: 0xf65be0:
+
+lock: 0xf65b20:
+
+lock: 0xf653a0:
+
+lock: 0xf65460:
+
+lock: 0xf65520:
+
+
+Key caches:
+default
+Buffer_size:      16777216
+Block_size:           1024
+Division_limit:        100
+Age_limit:             300
+blocks used:            54
+not flushed:             0
+w_requests:            632
+writes:                367
+r_requests:          43695
+reads:                  36
+
+
+handler status:
+read_key:         8683
+read_next:       10854
+read_rnd         18595
+read_first:      13032
+write:            8074
+delete               3
+update:            390
+
+Table status:
+Opened tables:         94
+Open tables:           64
+Open files:           127
+Open streams:           0
+
+Alarm status:
+Active alarms:   0
+Max used alarms: 0
+Next alarm time: 0
+
+Memory status:
+Non-mmapped space allocated from system: 10252288
+Number of free chunks:			 68
+Number of fastbin blocks:		 0
+Number of mmapped regions:		 14
+Space in mmapped regions:		 32530432
+Maximum total allocated space:		 0
+Space available in freed fastbin blocks: 0
+Total allocated space:			 8233088
+Total free space:			 2019200
+Top-most, releasable space:		 1755984
+Estimated memory (with thread stack):    42782720
+
+
+
+Events status:
+LLA = Last Locked At  LUA = Last Unlocked At
+WOC = Waiting On Condition  DL = Data Locked
+
+Event scheduler status:
+State      : INITIALIZED
+Thread id  : 0
+LLA        : n/a:0
+LUA        : n/a:0
+WOC        : NO
+Workers    : 0
+Executed   : 0
+Data locked: NO
+
+Event queue status:
+Element count   : 0
+Data locked     : NO
+Attempting lock : NO
+LLA             : init_queue:139
+LUA             : init_queue:149
+WOC             : NO
+Next activation : never
+160301 22:39:52 [Note] /opt/zbox/run/mysql/mysqld: Normal shutdown
+
+160301 22:39:52 [Note] Event Scheduler: Purging the queue. 0 events
+160301 22:39:52  InnoDB: Starting shutdown...
+160301 22:39:52  InnoDB: Shutdown completed; log sequence number 1595685
+160301 22:39:52 [Note] /opt/zbox/run/mysql/mysqld: Shutdown complete
+
+160301 22:39:52 mysqld_safe mysqld from pid file /opt/zbox/tmp/mysql/mysqld.pid ended
+160302 04:26:23 mysqld_safe Starting mysqld daemon with databases from /opt/zbox/data/mysql
+160302  4:26:23 [Warning] Using unique option prefix key_buffer instead of key_buffer_size is deprecated and will be removed in a future release. Please use the full name instead.
+160302  4:26:23 [Note] /opt/zbox/run/mysql/mysqld (mysqld 5.5.45) starting as process 2853 ...
+160302  4:26:23 InnoDB: The InnoDB memory heap is disabled
+160302  4:26:23 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+160302  4:26:23 InnoDB: Compressed tables use zlib 1.2.3.4
+160302  4:26:23 InnoDB: Initializing buffer pool, size = 128.0M
+160302  4:26:23 InnoDB: Completed initialization of buffer pool
+160302  4:26:23 InnoDB: highest supported file format is Barracuda.
+160302  4:26:23  InnoDB: Waiting for the background threads to start
+160302  4:26:24 InnoDB: 5.5.45 started; log sequence number 1595685
+160302  4:26:24 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+160302  4:26:24 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+160302  4:26:24 [Note] Server socket created on IP: '127.0.0.1'.
+160302  4:26:24 [Note] Event Scheduler: Loaded 0 events
+160302  4:26:24 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '5.5.45'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution
+160309 21:14:26 [Note] /opt/zbox/run/mysql/mysqld: Normal shutdown
+
+160309 21:14:26 [Note] Event Scheduler: Purging the queue. 0 events
+160309 21:14:26  InnoDB: Starting shutdown...
+160309 21:14:27  InnoDB: Shutdown completed; log sequence number 1595685
+160309 21:14:27 [Note] /opt/zbox/run/mysql/mysqld: Shutdown complete
+
+160309 21:14:27 mysqld_safe mysqld from pid file /opt/zbox/tmp/mysql/mysqld.pid ended
+160311 13:08:34 mysqld_safe Starting mysqld daemon with databases from /opt/zbox/data/mysql
+160311 13:08:34 [Warning] Using unique option prefix key_buffer instead of key_buffer_size is deprecated and will be removed in a future release. Please use the full name instead.
+160311 13:08:34 [Note] /opt/zbox/run/mysql/mysqld (mysqld 5.5.45) starting as process 1676 ...
+160311 13:08:34 InnoDB: The InnoDB memory heap is disabled
+160311 13:08:34 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+160311 13:08:34 InnoDB: Compressed tables use zlib 1.2.3.4
+160311 13:08:34 InnoDB: Initializing buffer pool, size = 128.0M
+160311 13:08:34 InnoDB: Completed initialization of buffer pool
+160311 13:08:34 InnoDB: highest supported file format is Barracuda.
+160311 13:08:34  InnoDB: Waiting for the background threads to start
+160311 13:08:35 InnoDB: 5.5.45 started; log sequence number 1595685
+160311 13:08:35 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+160311 13:08:35 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+160311 13:08:35 [Note] Server socket created on IP: '127.0.0.1'.
+160311 13:08:35 [Note] Event Scheduler: Loaded 0 events
+160311 13:08:35 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '5.5.45'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution
+160323 12:10:46 [Note] /opt/zbox/run/mysql/mysqld: Normal shutdown
+
+160323 12:10:46 [Note] Event Scheduler: Purging the queue. 0 events
+160323 12:10:46  InnoDB: Starting shutdown...
+160323 12:10:47  InnoDB: Shutdown completed; log sequence number 1595685
+160323 12:10:47 [Note] /opt/zbox/run/mysql/mysqld: Shutdown complete
+
+160323 12:10:47 mysqld_safe mysqld from pid file /opt/zbox/tmp/mysql/mysqld.pid ended
+160323 14:49:02 mysqld_safe Starting mysqld daemon with databases from /opt/zbox/data/mysql
+160323 14:49:02 [Warning] Using unique option prefix key_buffer instead of key_buffer_size is deprecated and will be removed in a future release. Please use the full name instead.
+160323 14:49:02 [Note] /opt/zbox/run/mysql/mysqld (mysqld 5.5.45) starting as process 2054 ...
+160323 14:49:02 InnoDB: The InnoDB memory heap is disabled
+160323 14:49:02 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+160323 14:49:02 InnoDB: Compressed tables use zlib 1.2.3.4
+160323 14:49:02 InnoDB: Initializing buffer pool, size = 128.0M
+160323 14:49:02 InnoDB: Completed initialization of buffer pool
+160323 14:49:02 InnoDB: highest supported file format is Barracuda.
+160323 14:49:02  InnoDB: Waiting for the background threads to start
+160323 14:49:03 InnoDB: 5.5.45 started; log sequence number 1595685
+160323 14:49:03 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+160323 14:49:03 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+160323 14:49:03 [Note] Server socket created on IP: '127.0.0.1'.
+160323 14:49:03 [Note] Event Scheduler: Loaded 0 events
+160323 14:49:03 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '5.5.45'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution
+160331 11:15:48 [Note] /opt/zbox/run/mysql/mysqld: Normal shutdown
+
+160331 11:15:48 [Note] Event Scheduler: Purging the queue. 0 events
+160331 11:15:48  InnoDB: Starting shutdown...
+160331 11:15:48  InnoDB: Shutdown completed; log sequence number 1595685
+160331 11:15:48 [Note] /opt/zbox/run/mysql/mysqld: Shutdown complete
+
+160331 11:15:48 mysqld_safe mysqld from pid file /opt/zbox/tmp/mysql/mysqld.pid ended
+160331 17:19:47 mysqld_safe Starting mysqld daemon with databases from /opt/zbox/data/mysql
+160331 17:19:47 [Warning] Using unique option prefix key_buffer instead of key_buffer_size is deprecated and will be removed in a future release. Please use the full name instead.
+160331 17:19:47 [Note] /opt/zbox/run/mysql/mysqld (mysqld 5.5.45) starting as process 24044 ...
+160331 17:19:47 InnoDB: The InnoDB memory heap is disabled
+160331 17:19:47 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+160331 17:19:47 InnoDB: Compressed tables use zlib 1.2.3.4
+160331 17:19:47 InnoDB: Initializing buffer pool, size = 128.0M
+160331 17:19:47 InnoDB: Completed initialization of buffer pool
+160331 17:19:47 InnoDB: highest supported file format is Barracuda.
+160331 17:19:47  InnoDB: Waiting for the background threads to start
+160331 17:19:48 InnoDB: 5.5.45 started; log sequence number 1595685
+160331 17:19:48 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+160331 17:19:48 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+160331 17:19:48 [Note] Server socket created on IP: '127.0.0.1'.
+160331 17:19:48 [Note] Event Scheduler: Loaded 0 events
+160331 17:19:48 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '5.5.45'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution
+160401 12:02:53 [Note] /opt/zbox/run/mysql/mysqld: Normal shutdown
+
+160401 12:02:53 [Note] Event Scheduler: Purging the queue. 0 events
+160401 12:02:53  InnoDB: Starting shutdown...
+160401 12:02:54  InnoDB: Shutdown completed; log sequence number 1595685
+160401 12:02:54 [Note] /opt/zbox/run/mysql/mysqld: Shutdown complete
+
+160401 12:02:54 mysqld_safe mysqld from pid file /opt/zbox/tmp/mysql/mysqld.pid ended
+160401 12:03:09 mysqld_safe Starting mysqld daemon with databases from /opt/zbox/data/mysql
+160401 12:03:09 [Warning] Using unique option prefix key_buffer instead of key_buffer_size is deprecated and will be removed in a future release. Please use the full name instead.
+160401 12:03:09 [Note] /opt/zbox/run/mysql/mysqld (mysqld 5.5.45) starting as process 3910 ...
+160401 12:03:09 InnoDB: The InnoDB memory heap is disabled
+160401 12:03:09 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+160401 12:03:09 InnoDB: Compressed tables use zlib 1.2.3.4
+160401 12:03:09 InnoDB: Initializing buffer pool, size = 128.0M
+160401 12:03:09 InnoDB: Completed initialization of buffer pool
+160401 12:03:09 InnoDB: highest supported file format is Barracuda.
+160401 12:03:09  InnoDB: Waiting for the background threads to start
+160401 12:03:10 InnoDB: 5.5.45 started; log sequence number 1595685
+160401 12:03:10 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+160401 12:03:10 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+160401 12:03:10 [Note] Server socket created on IP: '127.0.0.1'.
+160401 12:03:10 [Note] Event Scheduler: Loaded 0 events
+160401 12:03:10 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '5.5.45'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution
+160401 12:05:15 [Note] /opt/zbox/run/mysql/mysqld: Normal shutdown
+
+160401 12:05:15 [Note] Event Scheduler: Purging the queue. 0 events
+160401 12:05:15  InnoDB: Starting shutdown...
+160401 12:05:15  InnoDB: Shutdown completed; log sequence number 1595685
+160401 12:05:15 [Note] /opt/zbox/run/mysql/mysqld: Shutdown complete
+
+160401 12:05:15 mysqld_safe mysqld from pid file /opt/zbox/tmp/mysql/mysqld.pid ended
+160401 12:06:57 mysqld_safe Starting mysqld daemon with databases from /opt/zbox/data/mysql
+160401 12:06:57 [Warning] Using unique option prefix key_buffer instead of key_buffer_size is deprecated and will be removed in a future release. Please use the full name instead.
+160401 12:06:57 [Note] /opt/zbox/run/mysql/mysqld (mysqld 5.5.45) starting as process 1668 ...
+160401 12:06:57 InnoDB: The InnoDB memory heap is disabled
+160401 12:06:57 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+160401 12:06:57 InnoDB: Compressed tables use zlib 1.2.3.4
+160401 12:06:57 InnoDB: Initializing buffer pool, size = 128.0M
+160401 12:06:57 InnoDB: Completed initialization of buffer pool
+160401 12:06:57 InnoDB: highest supported file format is Barracuda.
+160401 12:06:57  InnoDB: Waiting for the background threads to start
+160401 12:06:58 InnoDB: 5.5.45 started; log sequence number 1595685
+160401 12:06:58 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+160401 12:06:58 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+160401 12:06:58 [Note] Server socket created on IP: '127.0.0.1'.
+160401 12:06:58 [Note] Event Scheduler: Loaded 0 events
+160401 12:06:58 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '5.5.45'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution
+160603 15:32:58 [Note] /opt/zbox/run/mysql/mysqld: Normal shutdown
+
+160603 15:32:58 [Note] Event Scheduler: Purging the queue. 0 events
+160603 15:32:58  InnoDB: Starting shutdown...
+160603 15:32:58  InnoDB: Shutdown completed; log sequence number 1595685
+160603 15:32:58 [Note] /opt/zbox/run/mysql/mysqld: Shutdown complete
+
+160603 15:32:58 mysqld_safe mysqld from pid file /opt/zbox/tmp/mysql/mysqld.pid ended
+160603 16:16:22 mysqld_safe Starting mysqld daemon with databases from /opt/zbox/data/mysql
+160603 16:16:22 [Warning] Using unique option prefix key_buffer instead of key_buffer_size is deprecated and will be removed in a future release. Please use the full name instead.
+160603 16:16:22 [Note] /opt/zbox/run/mysql/mysqld (mysqld 5.5.45) starting as process 23454 ...
+160603 16:16:22 InnoDB: The InnoDB memory heap is disabled
+160603 16:16:22 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+160603 16:16:22 InnoDB: Compressed tables use zlib 1.2.3.4
+160603 16:16:23 InnoDB: Initializing buffer pool, size = 128.0M
+160603 16:16:23 InnoDB: Completed initialization of buffer pool
+160603 16:16:23 InnoDB: highest supported file format is Barracuda.
+160603 16:16:23  InnoDB: Waiting for the background threads to start
+160603 16:16:24 InnoDB: 5.5.45 started; log sequence number 1595685
+160603 16:16:24 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+160603 16:16:24 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+160603 16:16:24 [Note] Server socket created on IP: '127.0.0.1'.
+160603 16:16:24 [Note] Event Scheduler: Loaded 0 events
+160603 16:16:24 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '5.5.45'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution
+160603 17:00:03 [Note] /opt/zbox/run/mysql/mysqld: Normal shutdown
+
+160603 17:00:03 [Note] Event Scheduler: Purging the queue. 0 events
+160603 17:00:03  InnoDB: Starting shutdown...
+160603 17:00:04  InnoDB: Shutdown completed; log sequence number 1595685
+160603 17:00:04 [Note] /opt/zbox/run/mysql/mysqld: Shutdown complete
+
+160603 17:00:04 mysqld_safe mysqld from pid file /opt/zbox/tmp/mysql/mysqld.pid ended
+160603 17:18:12 mysqld_safe Starting mysqld daemon with databases from /opt/zbox/data/mysql
+160603 17:18:12 [Warning] Using unique option prefix key_buffer instead of key_buffer_size is deprecated and will be removed in a future release. Please use the full name instead.
+160603 17:18:12 [Note] /opt/zbox/run/mysql/mysqld (mysqld 5.5.45) starting as process 402 ...
+160603 17:18:12 InnoDB: The InnoDB memory heap is disabled
+160603 17:18:12 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+160603 17:18:12 InnoDB: Compressed tables use zlib 1.2.3.4
+160603 17:18:12 InnoDB: Initializing buffer pool, size = 128.0M
+160603 17:18:12 InnoDB: Completed initialization of buffer pool
+160603 17:18:12 InnoDB: highest supported file format is Barracuda.
+160603 17:18:12  InnoDB: Waiting for the background threads to start
+160603 17:18:13 InnoDB: 5.5.45 started; log sequence number 1595685
+160603 17:18:13 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+160603 17:18:13 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+160603 17:18:13 [Note] Server socket created on IP: '127.0.0.1'.
+160603 17:18:13 [Note] Event Scheduler: Loaded 0 events
+160603 17:18:13 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '5.5.45'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution
+160606 14:31:26 mysqld_safe Starting mysqld daemon with databases from /opt/zbox/data/mysql
+160606 14:31:27 [Warning] Using unique option prefix key_buffer instead of key_buffer_size is deprecated and will be removed in a future release. Please use the full name instead.
+160606 14:31:27 [Note] /opt/zbox/run/mysql/mysqld (mysqld 5.5.45) starting as process 404 ...
+160606 14:31:27 InnoDB: The InnoDB memory heap is disabled
+160606 14:31:27 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+160606 14:31:27 InnoDB: Compressed tables use zlib 1.2.3.4
+160606 14:31:27 InnoDB: Initializing buffer pool, size = 128.0M
+160606 14:31:27 InnoDB: Completed initialization of buffer pool
+160606 14:31:27 InnoDB: highest supported file format is Barracuda.
+160606 14:31:27  InnoDB: Waiting for the background threads to start
+160606 14:31:28 InnoDB: 5.5.45 started; log sequence number 1595685
+160606 14:31:28 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+160606 14:31:28 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+160606 14:31:28 [Note] Server socket created on IP: '127.0.0.1'.
+160606 14:31:28 [Note] Event Scheduler: Loaded 0 events
+160606 14:31:28 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '5.5.45'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution
+160606 14:51:05 mysqld_safe Starting mysqld daemon with databases from /opt/zbox/data/mysql
+160606 14:51:05 [Warning] Using unique option prefix key_buffer instead of key_buffer_size is deprecated and will be removed in a future release. Please use the full name instead.
+160606 14:51:05 [Note] /opt/zbox/run/mysql/mysqld (mysqld 5.5.45) starting as process 404 ...
+160606 14:51:05 InnoDB: The InnoDB memory heap is disabled
+160606 14:51:05 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+160606 14:51:05 InnoDB: Compressed tables use zlib 1.2.3.4
+160606 14:51:05 InnoDB: Initializing buffer pool, size = 128.0M
+160606 14:51:05 InnoDB: Completed initialization of buffer pool
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+160606 14:51:05  InnoDB: Retrying to lock the first data file
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+160606 14:51:35 InnoDB: highest supported file format is Barracuda.
+160606 14:51:35  InnoDB: Waiting for the background threads to start
+160606 14:51:36 InnoDB: 5.5.45 started; log sequence number 1595685
+160606 14:51:36 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+160606 14:51:36 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+160606 14:51:36 [Note] Server socket created on IP: '127.0.0.1'.
+160606 14:51:37 [Note] Event Scheduler: Loaded 0 events
+160606 14:51:37 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '5.5.45'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution
+160607 19:21:29 mysqld_safe Starting mysqld daemon with databases from /opt/zbox/data/mysql
+160607 19:21:29 [Warning] Using unique option prefix key_buffer instead of key_buffer_size is deprecated and will be removed in a future release. Please use the full name instead.
+160607 19:21:29 [Note] /opt/zbox/run/mysql/mysqld (mysqld 5.5.45) starting as process 320 ...
+160607 19:21:29 InnoDB: The InnoDB memory heap is disabled
+160607 19:21:29 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+160607 19:21:29 InnoDB: Compressed tables use zlib 1.2.3.4
+160607 19:21:29 InnoDB: Initializing buffer pool, size = 128.0M
+160607 19:21:29 InnoDB: Completed initialization of buffer pool
+160607 19:21:29 InnoDB: highest supported file format is Barracuda.
+160607 19:21:29  InnoDB: Waiting for the background threads to start
+160607 19:21:30 InnoDB: 5.5.45 started; log sequence number 1595685
+160607 19:21:30 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+160607 19:21:30 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+160607 19:21:30 [Note] Server socket created on IP: '127.0.0.1'.
+160607 19:21:30 [Note] Event Scheduler: Loaded 0 events
+160607 19:21:30 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '5.5.45'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution
+160607 21:18:46 mysqld_safe Starting mysqld daemon with databases from /opt/zbox/data/mysql
+160607 21:18:46 [Warning] Using unique option prefix key_buffer instead of key_buffer_size is deprecated and will be removed in a future release. Please use the full name instead.
+160607 21:18:46 [Note] /opt/zbox/run/mysql/mysqld (mysqld 5.5.45) starting as process 411 ...
+160607 21:18:47 InnoDB: The InnoDB memory heap is disabled
+160607 21:18:47 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+160607 21:18:47 InnoDB: Compressed tables use zlib 1.2.3.4
+160607 21:18:47 InnoDB: Initializing buffer pool, size = 128.0M
+160607 21:18:47 InnoDB: Completed initialization of buffer pool
+160607 21:18:47 InnoDB: highest supported file format is Barracuda.
+160607 21:18:47  InnoDB: Waiting for the background threads to start
+160607 21:18:48 InnoDB: 5.5.45 started; log sequence number 1595685
+160607 21:18:48 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+160607 21:18:48 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+160607 21:18:48 [Note] Server socket created on IP: '127.0.0.1'.
+160607 21:18:48 [Note] Event Scheduler: Loaded 0 events
+160607 21:18:48 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '5.5.45'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution
+160607 21:19:49 mysqld_safe Starting mysqld daemon with databases from /opt/zbox/data/mysql
+160607 21:19:49 [Warning] Using unique option prefix key_buffer instead of key_buffer_size is deprecated and will be removed in a future release. Please use the full name instead.
+160607 21:19:49 [Note] /opt/zbox/run/mysql/mysqld (mysqld 5.5.45) starting as process 404 ...
+160607 21:19:49 InnoDB: The InnoDB memory heap is disabled
+160607 21:19:49 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+160607 21:19:49 InnoDB: Compressed tables use zlib 1.2.3.4
+160607 21:19:49 InnoDB: Initializing buffer pool, size = 128.0M
+160607 21:19:49 InnoDB: Completed initialization of buffer pool
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+160607 21:19:49  InnoDB: Retrying to lock the first data file
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+160607 21:20:13 InnoDB: highest supported file format is Barracuda.
+160607 21:20:13  InnoDB: Waiting for the background threads to start
+160607 21:20:14 InnoDB: 5.5.45 started; log sequence number 1595685
+160607 21:20:14 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+160607 21:20:14 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+160607 21:20:14 [Note] Server socket created on IP: '127.0.0.1'.
+160607 21:20:14 [Note] Event Scheduler: Loaded 0 events
+160607 21:20:14 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '5.5.45'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution
+160607 21:20:21 mysqld_safe Starting mysqld daemon with databases from /opt/zbox/data/mysql
+160607 21:20:22 [Warning] Using unique option prefix key_buffer instead of key_buffer_size is deprecated and will be removed in a future release. Please use the full name instead.
+160607 21:20:22 [Note] /opt/zbox/run/mysql/mysqld (mysqld 5.5.45) starting as process 320 ...
+160607 21:20:22 InnoDB: The InnoDB memory heap is disabled
+160607 21:20:22 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+160607 21:20:22 InnoDB: Compressed tables use zlib 1.2.3.4
+160607 21:20:22 InnoDB: Initializing buffer pool, size = 128.0M
+160607 21:20:22 InnoDB: Completed initialization of buffer pool
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+160607 21:20:22  InnoDB: Retrying to lock the first data file
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+160607 21:32:52 mysqld_safe Starting mysqld daemon with databases from /opt/zbox/data/mysql
+160607 21:32:52 [Warning] Using unique option prefix key_buffer instead of key_buffer_size is deprecated and will be removed in a future release. Please use the full name instead.
+160607 21:32:52 [Note] /opt/zbox/run/mysql/mysqld (mysqld 5.5.45) starting as process 402 ...
+160607 21:32:52 InnoDB: The InnoDB memory heap is disabled
+160607 21:32:52 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+160607 21:32:52 InnoDB: Compressed tables use zlib 1.2.3.4
+160607 21:32:52 InnoDB: Initializing buffer pool, size = 128.0M
+160607 21:32:52 InnoDB: Completed initialization of buffer pool
+160607 21:32:52 InnoDB: highest supported file format is Barracuda.
+160607 21:32:52  InnoDB: Waiting for the background threads to start
+160607 21:32:53 InnoDB: 5.5.45 started; log sequence number 1595685
+160607 21:32:53 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+160607 21:32:53 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+160607 21:32:53 [Note] Server socket created on IP: '127.0.0.1'.
+160607 21:32:53 [Note] Event Scheduler: Loaded 0 events
+160607 21:32:53 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '5.5.45'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution
+160607 21:33:39 mysqld_safe Starting mysqld daemon with databases from /opt/zbox/data/mysql
+160607 21:33:39 [Warning] Using unique option prefix key_buffer instead of key_buffer_size is deprecated and will be removed in a future release. Please use the full name instead.
+160607 21:33:39 [Note] /opt/zbox/run/mysql/mysqld (mysqld 5.5.45) starting as process 320 ...
+160607 21:33:39 InnoDB: The InnoDB memory heap is disabled
+160607 21:33:39 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+160607 21:33:39 InnoDB: Compressed tables use zlib 1.2.3.4
+160607 21:33:39 InnoDB: Initializing buffer pool, size = 128.0M
+160607 21:33:39 InnoDB: Completed initialization of buffer pool
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+160607 21:33:39  InnoDB: Retrying to lock the first data file
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+InnoDB: Unable to lock ./ibdata1, error: 11
+InnoDB: Check that you do not already have another mysqld process
+InnoDB: using the same InnoDB data or log files.
+160607 21:34:03 InnoDB: highest supported file format is Barracuda.
+160607 21:34:03  InnoDB: Waiting for the background threads to start
+160607 21:34:04 InnoDB: 5.5.45 started; log sequence number 1595685
+160607 21:34:04 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+160607 21:34:04 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+160607 21:34:04 [Note] Server socket created on IP: '127.0.0.1'.
+160607 21:34:04 [Note] Event Scheduler: Loaded 0 events
+160607 21:34:04 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '5.5.45'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution
+160607 21:35:32 [Note] /opt/zbox/run/mysql/mysqld: Normal shutdown
+
+160607 21:35:32 [Note] Event Scheduler: Purging the queue. 0 events
+160607 21:35:32  InnoDB: Starting shutdown...
+160607 21:35:33  InnoDB: Shutdown completed; log sequence number 1595685
+160607 21:35:33 [Note] /opt/zbox/run/mysql/mysqld: Shutdown complete
+
+160607 21:35:33 mysqld_safe mysqld from pid file /opt/zbox/tmp/mysql/mysqld.pid ended
+160607 21:35:44 mysqld_safe Starting mysqld daemon with databases from /opt/zbox/data/mysql
+160607 21:35:44 [Warning] Using unique option prefix key_buffer instead of key_buffer_size is deprecated and will be removed in a future release. Please use the full name instead.
+160607 21:35:44 [Note] /opt/zbox/run/mysql/mysqld (mysqld 5.5.45) starting as process 778 ...
+160607 21:35:44 InnoDB: The InnoDB memory heap is disabled
+160607 21:35:44 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+160607 21:35:44 InnoDB: Compressed tables use zlib 1.2.3.4
+160607 21:35:44 InnoDB: Initializing buffer pool, size = 128.0M
+160607 21:35:44 InnoDB: Completed initialization of buffer pool
+160607 21:35:44 InnoDB: highest supported file format is Barracuda.
+160607 21:35:44  InnoDB: Waiting for the background threads to start
+160607 21:35:45 InnoDB: 5.5.45 started; log sequence number 1595685
+160607 21:35:45 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+160607 21:35:45 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+160607 21:35:45 [Note] Server socket created on IP: '127.0.0.1'.
+160607 21:35:45 [Note] Event Scheduler: Loaded 0 events
+160607 21:35:45 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '5.5.45'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution
+160608 00:53:56 mysqld_safe Starting mysqld daemon with databases from /opt/zbox/data/mysql
+160608  0:53:57 [Warning] Using unique option prefix key_buffer instead of key_buffer_size is deprecated and will be removed in a future release. Please use the full name instead.
+160608  0:53:57 [Note] /opt/zbox/run/mysql/mysqld (mysqld 5.5.45) starting as process 405 ...
+160608  0:53:57 InnoDB: The InnoDB memory heap is disabled
+160608  0:53:57 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+160608  0:53:57 InnoDB: Compressed tables use zlib 1.2.3.4
+160608  0:53:57 InnoDB: Initializing buffer pool, size = 128.0M
+160608  0:53:57 InnoDB: Completed initialization of buffer pool
+160608  0:53:57 InnoDB: highest supported file format is Barracuda.
+160608  0:53:57  InnoDB: Waiting for the background threads to start
+160608  0:53:58 InnoDB: 5.5.45 started; log sequence number 1595685
+160608  0:53:58 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+160608  0:53:58 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+160608  0:53:58 [Note] Server socket created on IP: '127.0.0.1'.
+160608  0:53:58 [Note] Event Scheduler: Loaded 0 events
+160608  0:53:58 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '5.5.45'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution
+160610 23:21:40 mysqld_safe Starting mysqld daemon with databases from /opt/zbox/data/mysql
+160610 23:21:40 [Warning] Using unique option prefix key_buffer instead of key_buffer_size is deprecated and will be removed in a future release. Please use the full name instead.
+160610 23:21:40 [Note] /opt/zbox/run/mysql/mysqld (mysqld 5.5.45) starting as process 320 ...
+160610 23:21:41 InnoDB: The InnoDB memory heap is disabled
+160610 23:21:41 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+160610 23:21:41 InnoDB: Compressed tables use zlib 1.2.3.4
+160610 23:21:41 InnoDB: Initializing buffer pool, size = 128.0M
+160610 23:21:41 InnoDB: Completed initialization of buffer pool
+160610 23:21:41 InnoDB: highest supported file format is Barracuda.
+160610 23:21:41  InnoDB: Waiting for the background threads to start
+160610 23:21:42 InnoDB: 5.5.45 started; log sequence number 1595685
+160610 23:21:42 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+160610 23:21:42 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+160610 23:21:42 [Note] Server socket created on IP: '127.0.0.1'.
+160610 23:21:42 [Note] Event Scheduler: Loaded 0 events
+160610 23:21:42 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '5.5.45'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution
+160610 23:25:26 [Note] /opt/zbox/run/mysql/mysqld: Normal shutdown
+
+160610 23:25:26 [Note] Event Scheduler: Purging the queue. 0 events
+160610 23:25:26  InnoDB: Starting shutdown...
+160610 23:25:26  InnoDB: Shutdown completed; log sequence number 1595685
+160610 23:25:26 [Note] /opt/zbox/run/mysql/mysqld: Shutdown complete
+
+160610 23:25:26 mysqld_safe mysqld from pid file /opt/zbox/tmp/mysql/mysqld.pid ended
+160610 23:25:27 mysqld_safe Starting mysqld daemon with databases from /opt/zbox/data/mysql
+160610 23:25:27 [Warning] Using unique option prefix key_buffer instead of key_buffer_size is deprecated and will be removed in a future release. Please use the full name instead.
+160610 23:25:27 [Note] /opt/zbox/run/mysql/mysqld (mysqld 5.5.45) starting as process 760 ...
+160610 23:25:27 InnoDB: The InnoDB memory heap is disabled
+160610 23:25:27 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+160610 23:25:27 InnoDB: Compressed tables use zlib 1.2.3.4
+160610 23:25:27 InnoDB: Initializing buffer pool, size = 128.0M
+160610 23:25:27 InnoDB: Completed initialization of buffer pool
+160610 23:25:27 InnoDB: highest supported file format is Barracuda.
+160610 23:25:27  InnoDB: Waiting for the background threads to start
+160610 23:25:28 InnoDB: 5.5.45 started; log sequence number 1595685
+160610 23:25:28 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+160610 23:25:28 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+160610 23:25:28 [Note] Server socket created on IP: '127.0.0.1'.
+160610 23:25:28 [Note] Event Scheduler: Loaded 0 events
+160610 23:25:28 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '5.5.45'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution
+160611 23:05:04 mysqld_safe Starting mysqld daemon with databases from /opt/zbox/data/mysql
+160611 23:05:04 [Warning] Using unique option prefix key_buffer instead of key_buffer_size is deprecated and will be removed in a future release. Please use the full name instead.
+160611 23:05:04 [Note] /opt/zbox/run/mysql/mysqld (mysqld 5.5.45) starting as process 406 ...
+160611 23:05:04 InnoDB: The InnoDB memory heap is disabled
+160611 23:05:04 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+160611 23:05:04 InnoDB: Compressed tables use zlib 1.2.3.4
+160611 23:05:04 InnoDB: Initializing buffer pool, size = 128.0M
+160611 23:05:04 InnoDB: Completed initialization of buffer pool
+160611 23:05:04 InnoDB: highest supported file format is Barracuda.
+160611 23:05:04  InnoDB: Waiting for the background threads to start
+160611 23:05:05 InnoDB: 5.5.45 started; log sequence number 1595685
+160611 23:05:05 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+160611 23:05:05 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+160611 23:05:05 [Note] Server socket created on IP: '127.0.0.1'.
+160611 23:05:06 [Note] Event Scheduler: Loaded 0 events
+160611 23:05:06 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '5.5.45'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution
+160614 10:28:00 mysqld_safe Starting mysqld daemon with databases from /opt/zbox/data/mysql
+160614 10:28:01 [Warning] Using unique option prefix key_buffer instead of key_buffer_size is deprecated and will be removed in a future release. Please use the full name instead.
+160614 10:28:01 [Note] /opt/zbox/run/mysql/mysqld (mysqld 5.5.45) starting as process 406 ...
+160614 10:28:01 InnoDB: The InnoDB memory heap is disabled
+160614 10:28:01 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+160614 10:28:01 InnoDB: Compressed tables use zlib 1.2.3.4
+160614 10:28:01 InnoDB: Initializing buffer pool, size = 128.0M
+160614 10:28:01 InnoDB: Completed initialization of buffer pool
+160614 10:28:01 InnoDB: highest supported file format is Barracuda.
+160614 10:28:01  InnoDB: Waiting for the background threads to start
+160614 10:28:02 InnoDB: 5.5.45 started; log sequence number 1595685
+160614 10:28:02 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+160614 10:28:02 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+160614 10:28:02 [Note] Server socket created on IP: '127.0.0.1'.
+160614 10:28:02 [Note] Event Scheduler: Loaded 0 events
+160614 10:28:02 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '5.5.45'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution
+160614 16:42:23 mysqld_safe Starting mysqld daemon with databases from /opt/zbox/data/mysql
+160614 16:42:23 [Warning] Using unique option prefix key_buffer instead of key_buffer_size is deprecated and will be removed in a future release. Please use the full name instead.
+160614 16:42:23 [Note] /opt/zbox/run/mysql/mysqld (mysqld 5.5.45) starting as process 404 ...
+160614 16:42:23 InnoDB: The InnoDB memory heap is disabled
+160614 16:42:23 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+160614 16:42:23 InnoDB: Compressed tables use zlib 1.2.3.4
+160614 16:42:23 InnoDB: Initializing buffer pool, size = 128.0M
+160614 16:42:23 InnoDB: Completed initialization of buffer pool
+160614 16:42:23 InnoDB: highest supported file format is Barracuda.
+160614 16:42:23  InnoDB: Waiting for the background threads to start
+160614 16:42:24 InnoDB: 5.5.45 started; log sequence number 1595685
+160614 16:42:24 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+160614 16:42:24 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+160614 16:42:24 [Note] Server socket created on IP: '127.0.0.1'.
+160614 16:42:25 [Note] Event Scheduler: Loaded 0 events
+160614 16:42:25 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '5.5.45'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution
+160615 20:19:00 mysqld_safe Starting mysqld daemon with databases from /opt/zbox/data/mysql
+160615 20:19:00 [Warning] Using unique option prefix key_buffer instead of key_buffer_size is deprecated and will be removed in a future release. Please use the full name instead.
+160615 20:19:00 [Note] /opt/zbox/run/mysql/mysqld (mysqld 5.5.45) starting as process 404 ...
+160615 20:19:00 InnoDB: The InnoDB memory heap is disabled
+160615 20:19:00 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+160615 20:19:00 InnoDB: Compressed tables use zlib 1.2.3.4
+160615 20:19:00 InnoDB: Initializing buffer pool, size = 128.0M
+160615 20:19:00 InnoDB: Completed initialization of buffer pool
+160615 20:19:00 InnoDB: highest supported file format is Barracuda.
+160615 20:19:00  InnoDB: Waiting for the background threads to start
+160615 20:19:01 InnoDB: 5.5.45 started; log sequence number 1595685
+160615 20:19:01 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+160615 20:19:01 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+160615 20:19:01 [Note] Server socket created on IP: '127.0.0.1'.
+160615 20:19:01 [Note] Event Scheduler: Loaded 0 events
+160615 20:19:01 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '5.5.45'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution
+160616 11:55:20 mysqld_safe Starting mysqld daemon with databases from /opt/zbox/data/mysql
+160616 11:55:20 [Warning] Using unique option prefix key_buffer instead of key_buffer_size is deprecated and will be removed in a future release. Please use the full name instead.
+160616 11:55:20 [Note] /opt/zbox/run/mysql/mysqld (mysqld 5.5.45) starting as process 405 ...
+160616 11:55:20 InnoDB: The InnoDB memory heap is disabled
+160616 11:55:20 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+160616 11:55:20 InnoDB: Compressed tables use zlib 1.2.3.4
+160616 11:55:20 InnoDB: Initializing buffer pool, size = 128.0M
+160616 11:55:20 InnoDB: Completed initialization of buffer pool
+160616 11:55:20 InnoDB: highest supported file format is Barracuda.
+160616 11:55:20  InnoDB: Waiting for the background threads to start
+160616 11:55:21 InnoDB: 5.5.45 started; log sequence number 1595685
+160616 11:55:21 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+160616 11:55:21 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+160616 11:55:21 [Note] Server socket created on IP: '127.0.0.1'.
+160616 11:55:21 [Note] Event Scheduler: Loaded 0 events
+160616 11:55:21 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '5.5.45'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution
+160623 14:38:31 mysqld_safe Starting mysqld daemon with databases from /opt/zbox/data/mysql
+160623 14:38:32 [Warning] Using unique option prefix key_buffer instead of key_buffer_size is deprecated and will be removed in a future release. Please use the full name instead.
+160623 14:38:32 [Note] /opt/zbox/run/mysql/mysqld (mysqld 5.5.45) starting as process 404 ...
+160623 14:38:32 InnoDB: The InnoDB memory heap is disabled
+160623 14:38:32 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+160623 14:38:32 InnoDB: Compressed tables use zlib 1.2.3.4
+160623 14:38:32 InnoDB: Initializing buffer pool, size = 128.0M
+160623 14:38:32 InnoDB: Completed initialization of buffer pool
+160623 14:38:32 InnoDB: highest supported file format is Barracuda.
+160623 14:38:32  InnoDB: Waiting for the background threads to start
+160623 14:38:33 InnoDB: 5.5.45 started; log sequence number 1595685
+160623 14:38:33 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+160623 14:38:33 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+160623 14:38:33 [Note] Server socket created on IP: '127.0.0.1'.
+160623 14:38:33 [Note] Event Scheduler: Loaded 0 events
+160623 14:38:33 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '5.5.45'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution
