@@ -9,5 +9,5 @@ ADD zbox /opt/zbox
 EXPOSE 80
 
 ENV SERVICE_NAME=zentao
-ADD 
+#ADD 
 CMD ./zbox start && tail -f
