@@ -6,6 +6,7 @@ RUN ln -snf /usr/share/zoneinfo/$TIME_ZONE /etc/localtime && echo $TIME_ZONE > /
   
 WORKDIR /opt/zbox
 ADD zbox /opt/zbox
+RUN sed -i s#/opt/zbox/app/zentao/www#/opt/zbox/data/www#g /opt/zbox/etc/apache/httpd.conf
 EXPOSE 80
 
 ENV SERVICE_NAME=zentao
