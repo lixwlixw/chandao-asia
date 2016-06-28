@@ -10,4 +10,4 @@ EXPOSE 80
 
 ENV SERVICE_NAME=zentao
 #ADD 
-CMD rm -rf /opt/zbox/tmp/apache/httpd.pid && ./zbox start && tail -f
+CMD echo '65534' > /opt/zbox/tmp/apache/httpd.pid && ./zbox start && tail -f
