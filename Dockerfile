@@ -7,8 +7,8 @@ RUN ln -snf /usr/share/zoneinfo/$TIME_ZONE /etc/localtime && echo $TIME_ZONE > /
 WORKDIR /opt/zbox
 ADD zbox /opt/zbox
 #RUN sed -i s#/opt/zbox/app/zentao/www#/opt/zbox/data/www#g /opt/zbox/etc/apache/httpd.conf
-RUN sed  '20 aupload_tmp_dir = "/opt/zbox/data/www/data"' -i /opt/zbox/etc/php/php.ini
-RUN chmod -R 777 '/opt/zbox/app/zentao/www/data/upload/1/'
+#RUN sed  '20 aupload_tmp_dir = "/opt/zbox/data/www/data"' -i /opt/zbox/etc/php/php.ini
+RUN chmod -R 777 '/opt/zbox/data/www/data/upload/1/'
 EXPOSE 80
 
 ENV SERVICE_NAME=zentao
